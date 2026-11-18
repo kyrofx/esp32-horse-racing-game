@@ -1,0 +1,7 @@
+{
+  "name": "RaceDiagnostics",
+  "version": "1.0.0",
+  "description": "Shared diagnostic hardware, serial link and motor interlock for the two race controllers",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
